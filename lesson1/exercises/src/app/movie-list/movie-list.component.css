@@ -1,6 +1,7 @@
 .movies {
   color: aqua;
   font-size: large;
+  border-style: dotted;
 }
 
 h3 {
